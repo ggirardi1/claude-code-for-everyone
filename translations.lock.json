@@ -1,8 +1,8 @@
 {
   "pt-BR/CLAUDE.md -> en/CLAUDE.md": {
-    "source": "sha256:7ee1a32a9fca9cd4a84194640ce70d2f440c5ace5f5b2bac6f010dea9a9c66a2",
-    "target": "sha256:648da48dcc4e5eeade416ef93763bc0080f572a8613d38efd8542fc544e77884",
-    "generatedAt": "2026-09-20T18:55:09.535Z"
+    "source": "sha256:c5ed32749361625a780c65999a4b7e38f1172ea331c40294553713d37af048ae",
+    "target": "sha256:59d38c8e8e30f5a621629c607da2ff590ea8cc10a91a0f32f3c85ce3995c3173",
+    "generatedAt": "2026-09-20T19:15:13.409Z"
   },
   "pt-BR/linguagem-simples.md -> en/plain-language.md": {
     "source": "sha256:10f2929c337bbab37034fe43ce7ff6dea27e861f9019d817695d9005f0b91ddc",
