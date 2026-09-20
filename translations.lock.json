@@ -1,0 +1,17 @@
+{
+  "pt-BR/CLAUDE.md -> en/CLAUDE.md": {
+    "source": "sha256:7ee1a32a9fca9cd4a84194640ce70d2f440c5ace5f5b2bac6f010dea9a9c66a2",
+    "target": "sha256:648da48dcc4e5eeade416ef93763bc0080f572a8613d38efd8542fc544e77884",
+    "generatedAt": "2026-09-20T18:55:09.535Z"
+  },
+  "pt-BR/linguagem-simples.md -> en/plain-language.md": {
+    "source": "sha256:10f2929c337bbab37034fe43ce7ff6dea27e861f9019d817695d9005f0b91ddc",
+    "target": "sha256:be662e468769b22b8fbccc68c0f19f4b7f678a7f51b855c8d90991d39c3f5d9a",
+    "generatedAt": "2026-09-20T18:55:22.456Z"
+  },
+  "README.pt-BR.md -> README.md": {
+    "source": "sha256:f494cefd99d6323f41d6369b73e8a54c3a3108bfcf8d30445a494a5ab66cd081",
+    "target": "sha256:3c385d0205ca2585a054de986774fa15b68c91a1a157f7cc362917f18bce103f",
+    "generatedAt": "2026-09-20T18:55:52.239Z"
+  }
+}

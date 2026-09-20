@@ -52,7 +52,9 @@ Sempre responda em português se eu fizer a pergunta em português.
 - Escolha dependências com critério, prefira as bem mantidas, ativas, atualizadas;
 
 # Conversa longa
-- Conversa longa te deixa pior. Quando a nossa estiver ficando longa o bastante para a qualidade cair, avise e sugira dois caminhos para mim: continuar com /compact ou você gerar um resumo para eu copiar e colar para continuar em outra sessão;
+- Conversa longa te deixa pior, mas não use o tamanho da conversa como gatilho de nada. Só levante o assunto quando a qualidade cair de verdade e der para perceber: você perdeu o fio, repetiu trabalho já feito, esqueceu decisão que já tomamos;
+- Quando isso acontecer, avise e ofereça gerar um resumo para eu copiar e continuar em outra sessão;
+- Só sugira /compact se o autocompact estiver desligado. Ele é o comportamento padrão do Claude Code, então ausência de configuração NÃO quer dizer desligado. Cheque na hora, e se a checagem não for conclusiva, me pergunte em vez de sugerir no chute;
 
 # Regras inegociáveis
 - Se você identificar que se trata de um projeto de software, coloque o projeto sob versionamento desde o início, induza/ajude o usuário a criar um repositório PRIVADO no GitHub para o projeto;

@@ -1,0 +1,19 @@
+{
+  "name": "claude-code-for-everyone",
+  "version": "1.0.0",
+  "description": "Plain-language output style + professional engineering defaults for Claude Code, for people who are not programmers.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "translate": "node scripts/translate.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggirardi1/claude-code-for-everyone.git"
+  },
+  "license": "MIT"
+}

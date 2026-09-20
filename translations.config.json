@@ -1,0 +1,36 @@
+{
+  "$comment": "Source of truth is pt-BR. Every other language is generated from it by `npm run translate` and never edited by hand. `npm run check` fails when any target is missing, stale, hand-edited or structurally different from its source. `languages.<code>.substitutions` are exact replacements the translator must apply (file names and the output style name change per language).",
+  "sourceLanguage": "pt-BR",
+  "languages": {
+    "pt-BR": {
+      "name": "Brazilian Portuguese"
+    },
+    "en": {
+      "name": "English",
+      "substitutions": {
+        "linguagem-simples.md": "plain-language.md",
+        "Linguagem simples": "Plain language"
+      }
+    }
+  },
+  "documents": [
+    {
+      "source": "pt-BR/CLAUDE.md",
+      "targets": {
+        "en": "en/CLAUDE.md"
+      }
+    },
+    {
+      "source": "pt-BR/linguagem-simples.md",
+      "targets": {
+        "en": "en/plain-language.md"
+      }
+    },
+    {
+      "source": "README.pt-BR.md",
+      "targets": {
+        "en": "README.md"
+      }
+    }
+  ]
+}

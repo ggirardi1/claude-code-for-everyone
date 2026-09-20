@@ -1,0 +1,19 @@
+# Blocks any change that would let the languages drift apart: a translation
+# that is missing, stale, hand-edited or structurally different from its
+# source fails the build. Translations are generated locally with
+# `npm run translate`; this job only verifies them.
+name: Translations in sync
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run check

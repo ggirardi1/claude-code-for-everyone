@@ -1,0 +1,7 @@
+schema_version: 1
+project_name: padroes-profissionais
+group_id: padroes-profissionais-75b386f7
+index_backend: graphiti
+embedder_model: null
+embedding_dim: null
+context_token_budget: 3000
